@@ -1,16 +1,17 @@
 # Ignite-Lab
 
-https://www.figma.com/file/8x4wvVzHzhASyo3K47Roqc/Plataforma-de-evento---Ignite-Lab-(Community)?node-id=24%3A2
+![image](https://user-images.githubusercontent.com/63380921/175836243-dce33ec9-f01b-4fbc-a3b1-3fd778bd4556.png)
 
-# Tecnologias:
 
--- React
--- GraphQL
--- Apollo
--- Tailwind CSS
--- GraphCMS
--- VITE
+🚀 Tecnologias:
 
-# URL:
+- React
+- GraphQL
+- Apollo
+- Tailwind CSS
+- GraphCMS
+- VITE
 
-https://ignite-lab-react-three-iota.vercel.app/
+💻 Proyecto:
+
+- https://ignite-lab-react-three-iota.vercel.app/
